@@ -1,6 +1,6 @@
 #  Jonathan Sanders
 
-**`Junior Software Engineer (BodyBuilder/Army Vet)`**
+**`Junior Software Engineer (BodyBuiling Army Vet)`**
 
 I am a Army Veteran/Bodybuilder turned junior Software Engineer hoping to break into the tech industry. I am Building myself up from the ground up.
 I've been learning multiple programming languges
