@@ -34,6 +34,7 @@ https://www.youtube.com/playlist?list=PL4-IK0AVhVjM0xE0K2uZRvsM7LkIhsPT
 
 https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0
 
+https://getmimo.com/web/50/overview
 
 #
 ![engineering](https://user-images.githubusercontent.com/122297091/215893578-aa0370c2-a174-4cfa-970b-ea11d092eb55.gif)
