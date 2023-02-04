@@ -38,7 +38,7 @@ https://getmimo.com/web/50/overview
 
 [pygame_docs.pdf](https://github.com/Jaybsand/Jaybsand/files/10609479/pygame_docs.pdf)
 
-[Tutorial_EDIT.pdf](https://github.com/Jaybsand/Jaybsand/files/10609480/Tutorial_EDIT.pdf)
+[Python_docs.pdf](https://github.com/Jaybsand/Jaybsand/files/10609480/Python_docs.pdf)
 
 
 #
