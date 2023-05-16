@@ -24,21 +24,23 @@ I've been learning multiple programming languges due to me loving to learn and f
 #
 ### Resouces I've been using
 
-https://scrimba.com/
+[Scrimba](https://scrimba.com/)
 
-https://www.theodinproject.com
+[TheOdinProject](https://www.theodinproject.com)
 
-https://www.coursera.org/
+[Coursera](https://www.coursera.org/)
 
-https://www.youtube.com/playlist?list=PL4-IK0AVhVjM0xE0K2uZRvsM7LkIhsPT
+[Youtube](https://www.youtube.com/playlist?list=PL4-IK0AVhVjM0xE0K2uZRvsM7LkIhsPT)
 
-https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0
+[Harvard University](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
 
-https://getmimo.com/web/50/overview
+[GetMimo](https://getmimo.com/web/50/overview)
 
-[pygame_docs.pdf](https://github.com/Jaybsand/Jaybsand/files/10609479/pygame_docs.pdf)
+[FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
 
-[Python_docs.pdf](https://github.com/Jaybsand/Jaybsand/files/10609480/Python_docs.pdf)
+[Pygame](https://github.com/Jaybsand/Jaybsand/files/10609479/pygame_docs.pdf)
+
+[Python](https://github.com/Jaybsand/Jaybsand/files/10609480/Python_docs.pdf)
 
 
 #
